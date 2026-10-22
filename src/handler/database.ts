@@ -2,7 +2,7 @@ import DotDB from "dotdatabase";
 
 const database = {
 
-    config: new DotDB("src/database/config.json")
+    config: new DotDB("database/config.json")
 
 }
 
